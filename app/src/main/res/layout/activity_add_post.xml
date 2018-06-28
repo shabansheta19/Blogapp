@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/activity_vertical_margin">
+
+        <ImageView
+            android:id="@+id/addPostImageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:src="@mipmap/add_image"
+            android:scaleType="centerCrop"/>
+
+        <EditText
+            android:id="@+id/postTitleEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:padding="@dimen/post_title_textView_padding"
+            android:hint="Post Title"
+            android:background="@drawable/edit_text_border"
+            android:textAppearance="?android:textAppearanceLarge"/>
+
+        <EditText
+            android:id="@+id/postDescEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/post_title_textView_padding"
+            android:hint="this is the post description "
+            android:background="@drawable/edit_text_border"
+            android:textAppearance="?android:textAppearanceMedium"/>
+
+
+
+    </LinearLayout>

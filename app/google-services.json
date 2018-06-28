@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "932897403278",
+    "firebase_url": "https://blog-app-cee4c.firebaseio.com",
+    "project_id": "blog-app-cee4c",
+    "storage_bucket": "blog-app-cee4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932897403278:android:0ae35b6d5eaf4678",
+        "android_client_info": {
+          "package_name": "com.example.shaban.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932897403278-ink78h52guj4i4okousidfs78f05umo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaban.blogapp",
+            "certificate_hash": "f6cfce796c8335a7fcd6942015255a12c38c5e69"
+          }
+        },
+        {
+          "client_id": "932897403278-86pf0rn3k31hlpt8iv4ps2igqos1b672.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "932897403278-86pf0rn3k31hlpt8iv4ps2igqos1b672.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CFZNDWlrK1o0OsrspOvNP41HfjDvSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932897403278-86pf0rn3k31hlpt8iv4ps2igqos1b672.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
